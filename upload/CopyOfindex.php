@@ -1,2 +1,2 @@
 <?php
-echo "new";
+echo "new line";
